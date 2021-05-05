@@ -1,1 +1,0 @@
-https://github.com/TUD-RST/pytutorials/tree/master/03-Jupyter-Notebook-And-SymPy
