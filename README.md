@@ -1,4 +1,4 @@
-# Following from ahead 
+# Robot Follow Ahead with Obstacle Avoidance
 
 > Comparing Model-Based Methods to Predict Human Trajectory in Follow-Ahead Problem
 
